@@ -1,10 +1,23 @@
-### hey there :)
+# 👋 howdy
+my name is norman and i code stuff just for fun, hoping to do it as a job someday :)
 
-i'm norman! i'm a high school sophmore in the rurals of buffalo, ny that codes sometimes.
+## ❤️ about me
+- i'm 15
+- my pronouns are he/him
+- i also edit videos
+- i wanna learn to make music
 
-- i’m currently working on anything that's pinned below, really.
-- i’m wanting to learn python and more javascript.
-- how to reach me: [mail@nrmn.top](https://www.nrmn.top/contact/)
-- pronouns: he/him
+## 📫 contact
+you can contact me either through [discord](https://discord.com/users/629753232821846016) or at [mail@nrmn.top](mailto:mail@nrmn.top).
 
-for more info on what i do, check my [website](https://www.nrmn.top)!
+i would likely respond quicker over discord but anything would probably work. but if i don't respond on either try my other social medias @ [https://nrmn.top/socials](https://nrmn.top/socials)
+
+## 🧪 experience
+- NodeJS
+- CSS/HTML
+
+## 🌱 learning/want to learn
+- Python
+- VEX VR/ROBOTC (C)
+
+#### For more information, visit [nrmn.top](https://nrmn.top)
