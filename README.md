@@ -2,7 +2,7 @@
 my name is norman and i code stuff just for fun, hoping to do it as a job someday :)
 
 ## ❤️ about me
-- i'm 15
+- i'm 15 (16 on april 6th, 2021)
 - my pronouns are he/him
 - i also edit videos
 - i wanna learn to make music
@@ -13,11 +13,11 @@ you can contact me either through [discord](https://discord.com/users/6297532328
 i would likely respond quicker over discord but anything would probably work. but if i don't respond on either try my other social medias @ [https://nrmn.top/socials](https://nrmn.top/socials)
 
 ## 🧪 experience
-- NodeJS
-- CSS/HTML
+- NodeJS / Electron 
+- CSS/HTML 
 
 ## 🌱 learning/want to learn
 - Python
-- VEX VR/ROBOTC (C)
+- VEX VR / ROBOTC (C)
 
-#### For more information, visit [nrmn.top](https://nrmn.top)
+### For more information, visit [nrmn.top](https://nrmn.top)
