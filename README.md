@@ -1,23 +1,9 @@
-# 👋 howdy
-my name is norman and i code stuff just for fun, hoping to do it as a job someday :)
+# hi 👋
+my name is norman, im 15, and i code stuff for fun
 
-## ❤️ about me
-- i'm 15 (16 on april 6th, 2021)
-- my pronouns are he/him
-- i also edit videos
-- i wanna learn to make music
+## quick stuff about me
+- i primarily do web scraping or web development with node ✨
+- i want to learn python and c++ at some point 🧪
+- pronouns are he/they and i'm a male ♂️
 
-## 📫 contact
-you can contact me either through [discord](https://discord.com/users/629753232821846016) or at [mail@nrmn.top](mailto:mail@nrmn.top).
-
-i would likely respond quicker over discord but anything would probably work. but if i don't respond on either try my other social medias @ [https://nrmn.top/socials](https://nrmn.top/socials)
-
-## 🧪 experience
-- NodeJS / Electron 
-- CSS/HTML 
-
-## 🌱 learning/want to learn
-- Python
-- VEX VR / ROBOTC (C)
-
-### For more information, visit [nrmn.top](https://nrmn.top)
+[more info on my site](https://nrmn.top/)
